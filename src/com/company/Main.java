@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 //        1,1,2,3,5,8,13,21,34...
         Scanner scan = new Scanner(System.in);
-        System.out.println("bir san jazynyz:");
+        System.out.println("bir san jazynyz:mmm");
         int input = scan.nextInt();
         int san1 = 0;
         int san2 = 1;
